@@ -5,7 +5,7 @@
 🔭 I’m currently actively seeking job opportunities.
 
 ![education](https://user-images.githubusercontent.com/108309963/205109206-b43e4ea6-6dd7-4ab5-ada8-63d267ab5494.png)
- I am almost completing a Coding Bootcamp with a certification in Full Stack Web Development from Georgia Institute of Technology.
+ I am almost completing a Coding Bootcamp with a certification in Full Stack Web Development from Georgia Institute of Technology. Completion date is December, 2022.
 
 ![github](https://user-images.githubusercontent.com/108309963/205109269-ceb50ea6-f897-4733-b334-c8aaa666ac8c.png)
 You can view the projects i have undertaken on my github account using this link: https://github.com/kariukit
