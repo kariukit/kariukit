@@ -1,6 +1,7 @@
 # About me
 
-Hi, I am Teresa 👋
+
+# Hi, I am Teresa 👋
 
 🔭 I’m currently actively seeking job opportunities.
 
@@ -14,7 +15,7 @@ You can view the projects i have undertaken on my github account using this link
 
 ⚡ Fun fact: I love to do take walks, watch tv series and listen to music.
 
-# Technologies that i am familiar with include:
+# Technologies that I am familiar with include:
 
 ![node](https://user-images.githubusercontent.com/108309963/205109351-cddc2915-efde-445f-bb93-af3eb97faf61.png)
 ![react](https://user-images.githubusercontent.com/108309963/205109352-f42c3527-9ade-45d0-bcac-90b34ebf82d9.png)
