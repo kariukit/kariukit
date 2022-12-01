@@ -1,6 +1,3 @@
-# About me
-
-
 # Hi, I am Teresa 👋
 
 🔭 I’m currently actively seeking job opportunities.
