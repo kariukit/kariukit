@@ -2,7 +2,7 @@
 
 #  I am Teresa 👋
 
-🔭 I’m currently actively seeking job opportunities.
+🔭 I’m currently actively seeking job opportunities in sofware engineering.
 
 ![education](https://user-images.githubusercontent.com/108309963/205109206-b43e4ea6-6dd7-4ab5-ada8-63d267ab5494.png)
  I am almost completing a Coding Bootcamp with a certification in Full Stack Web Development from Georgia Institute of Technology. The completion date is December, 2022.
